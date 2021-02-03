@@ -153,3 +153,131 @@ body {
 .text-light {
   color: #fff;
 }
+.arrival-row {
+  margin-top: 36px;
+  margin-bottom: 30px;
+}
+.title-new-card {
+  font-family: "Roboto Slab", serif;
+  font-size: 25px;
+  line-height: 30px;
+  color: #262d33;
+  display: flex;
+  align-items: center;
+}
+.view {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #262d33;
+  font-weight: 900;
+}
+.df {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+.mini-card-title {
+  margin-top: 192px;
+  margin-bottom: 5px;
+  font-family: "Roboto Slab", serif;
+  font-size: 16px;
+  line-height: 25px;
+  color: #262d33;
+}
+.mini-card-title-description {
+  margin-top: 0;
+  margin-bottom: 20px;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #4b5157;
+}
+.mini-card-price {
+  margin-top: 0;
+  font-family: "Lato", sans-serif;
+  color: #262d33;
+  font-size: 18px;
+  line-height: 30px;
+}
+.mini-card-1 {
+  background: transparent url("../img/mini-card-1.png") no-repeat center top
+    10px;
+  background-size: 190px 190px;
+}
+.mini-card-2 {
+  background: transparent url("../img/mini-card-2.png") no-repeat center top
+    10px;
+  background-size: 190px 190px;
+}
+.mini-card-3 {
+  background: transparent url("../img/mini-card-3.png") no-repeat center top
+    10px;
+  background-size: 190px 190px;
+}
+.mini-card-4 {
+  background: transparent url("../img/mini-card-4.png") no-repeat center top
+    10px;
+  background-size: 190px 190px;
+}
+.sect-footer {
+  width: 100%;
+  background: #8f79d4;
+}
+.footer {
+  margin-top: 70px;
+}
+.row-1 {
+  margin-top: 45px;
+  margin-bottom: 44px;
+}
+.footer-navigation-link {
+  text-decoration: none;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #fff;
+}
+.follow {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #e7d9ff;
+}
+.footer-navigation-link-2 {
+  margin-right: 15px;
+}
+.copyright {
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+  color: #e7d9ff;
+}
+hr {
+  height: 1px;
+  color: #e7d9ff;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.row-2 {
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.footer-navigation-link-3 {
+  margin-right: 25px;
+}
+.top {
+  font-family: "Lato", sans-serif;
+  font-weight: 900;
+  font-size: 14px;
+  line-height: 20px;
+  color: #ffffff;
+}
+.footer-button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  outline: none;
+  margin-left: 15px;
+}
