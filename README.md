@@ -1,2 +1,2 @@
-# willberries
-This is the page of  online store "Willberries"
+# blueberries
+This is the page of online store "Blueberries"
