@@ -1,8 +1,3 @@
-// function Scroll() {
-//   scroll(0, 0);
-//   return false;
-// }
-
 var t;
 function Scroll() {
 	var top = Math.max(document.body.scrollTop,document.documentElement.scrollTop);
